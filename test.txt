@@ -3,7 +3,4 @@ version=1.01
 
 
 CONFIG.JSON
-"cpu_saver": false,
-"ld_headless_path": "rterter",
-"auto_bypass_key": false
 "auto_execute_path": "/storage/emulated/0/Arceus X/AutoExec",
