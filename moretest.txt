@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://pst.innomi.net/paste/e7s6xkqqwgm4yerkkak38mme/raw'),true))()
