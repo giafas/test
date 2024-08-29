@@ -1,6 +1,4 @@
-https://drive.google.com/file/d/1o9T1vZ99TPQIneX_GUzBm2YXlEyMHOas/view?usp=sharing
-version=2.07
-
-
+file=https://drive.google.com/file/d/1o9T1vZ99TPQIneX_GUzBm2YXlEyMHOas/view?usp=sharing
+version=1.07
 CONFIG.JSON
 "auto_execute_path": "/storage/emulated/0/Arceus X/AutoExec",
