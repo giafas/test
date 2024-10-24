@@ -1,5 +1,5 @@
-file=https://drive.google.com/file/d/1LbkeEt8W3g4LJoZcsKGhY29oD_0VwoJ7/view?usp=sharing
-version=1.11
+file=https://drive.google.com/file/d/1s9pFPQiIJZGyVDyCWPJeHwe4JpDuOXRX/view?usp=sharing
+version=1.12
 
 
 CONFIG.JSON
