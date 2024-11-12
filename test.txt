@@ -1,6 +1,10 @@
-file=https://drive.google.com/file/d/1DsSuJfFS4LGI8VFz2T8m8MS-rwTIYzmF/view?usp=sharing
+file=https://drive.google.com/file/d/1F4A9GEgkFUoTfugKA6jYIyzlkVpx7Mni/view?usp=sharing
 version=1.1121
 
 
 CONFIG.JSON
 "auto_execute_path": "/storage/emulated/0/Arceus X/AutoExec",
+"not_kill_ld_restart": true,
+"cpu_saver": true,
+"cpu_saver_level": 30,
+"ld_headless_path": "C:\\ProgramFiles\\ldplayer9box\\Ld9BoxHeadless.exe",
