@@ -7,4 +7,4 @@ CONFIG.JSON
 "not_kill_ld_restart": true,
 "cpu_saver": true,
 "cpu_saver_level": 30,
-"ld_headless_path": "C:\ProgramFiles\ldplayer9box\Ld9BoxHeadless.exe",
+"ld_headless_path": "C:\Program Files\ldplayer9box\Ld9BoxHeadless.exe",
