@@ -1,9 +1,9 @@
 file=https://drive.google.com/file/d/1pAguDvNYSlEw1xpbJHNz7qGW2SC5KRLG/view?usp=sharing
-version=1.164
+version=1.165
 
 
 CONFIG.JSON
-"auto_execute_path": "/storage/emulated/0/Delta/Autoexecute/",
+"auto_execute_path": "/storage/emulated/0/Arceus X/AutoExec",
 "launch_menu_before_game": false,
 "not_kill_ld_restart": false,
 "cpu_saver": false,
