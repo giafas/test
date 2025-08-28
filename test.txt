@@ -1,4 +1,4 @@
-file=https://drive.google.com/file/d/1SUPDNX1CbESsRA4pcJlNjYep5R-rBixm/view?usp=sharing
+file=https://drive.google.com/file/d/1ryrJ7YTPgjioOsFIchVd81GW4jmYPMoJ/view?usp=sharing
 version=1.1673
 
 
@@ -6,6 +6,6 @@ CONFIG.JSON
 "auto_execute_path": "/storage/emulated/0/Delta/Autoexecute/",
 "launch_menu_before_game": false,
 "not_kill_ld_restart": false,
-"cpu_saver": false,
-"cpu_saver_level": 20,
+"cpu_saver": true,
+"cpu_saver_level": 30,
 "ld_headless_path": "C:\Program Files\ldplayer9box\Ld9BoxHeadless.exe",
