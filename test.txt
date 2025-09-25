@@ -1,11 +1,11 @@
-file=https://drive.google.com/file/d/1ryrJ7YTPgjioOsFIchVd81GW4jmYPMoJ/view?usp=sharing
-version=1.1675
+file=https://drive.google.com/file/d/1MG-rgM3uaCb4280PRlo-T_5ERGe_5IYu/view?usp=sharing
+version=1.1676
 
 
 CONFIG.JSON
-"auto_execute_path": "/storage/emulated/0/Delta/Autoexecute/",
+"auto_execute_path": "/storage/emulated/0/Arceus X/Autoexec",
 "launch_menu_before_game": false,
 "not_kill_ld_restart": false,
-"cpu_saver": true,
+"cpu_saver": false,
 "cpu_saver_level": 30,
 "ld_headless_path": "C:\Program Files\ldplayer9box\Ld9BoxHeadless.exe",
